@@ -5,7 +5,7 @@ PCB Conversions of ciat-lonbarde Paper Circuits.
 
 ![NOBSRINE 1.jpg](https://images.zenhubusercontent.com/5f9d76b2317e524708339b19/9239710d-4ae8-447f-a301-8e1de92aa496)
 
-#OldMrGrassi * TESTED and Working *
+#OldMrGrassi * TESTED and SORT OF WORKING.... If you build it - dont use the thonkiconn jack footprints. just build it as normal with speakers.  *
 
 ![Old Mr Grassi.PNG](https://images.zenhubusercontent.com/5f9d76b2317e524708339b19/5876e463-650c-4975-854f-e6ad875dcc11)
 
